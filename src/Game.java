@@ -31,6 +31,6 @@ public class Game
             player.addCardToHand(d.dealCard());
             opponent.addCardToHand(d.dealCard());
         }
-        System.out.println("No more cards in the deck");
+        System.out.println("No more cards in the deck hello");
     }
 }
